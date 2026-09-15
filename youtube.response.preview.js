@@ -1,5 +1,5 @@
-// https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/dist/youtube.response.preview.js
-// Build: 2024/11/12 23:57:15
+// https://raw.githubusercontent.com/Rom777Arm/MyScripPremium/main/youtube.response.preview.js
+// Build: 2026/10/16 01:56:21
 (() => {
   var qt = Object.defineProperty;
   var Xt = (t, e, n) =>
